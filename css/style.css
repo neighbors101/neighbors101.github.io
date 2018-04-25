@@ -1,0 +1,41 @@
+.full-width-container {
+    width: 100%;
+    max-width: 100%;
+    clear: both;
+    margin: 0 auto;
+    position: relative;
+}
+
+.row{
+    margin-bottom: 3rem;
+}
+
+.landing{
+    background-color: rgb(78, 78, 78);
+}
+
+.landing img{
+    opacity: 0.6;
+}
+
+.landing-title{
+    position: absolute;
+    top: 50%;
+    text-align: center;
+    color: white;
+}
+
+.landing-title h1{
+    font-weight: 600;
+    font-size: 5vw;
+}
+
+.section-title{
+    text-align: center;
+}
+
+.section {
+    border-top: 1px solid #eee;
+    padding: 4rem 0;
+    margin-bottom: 0;
+}
